@@ -54,11 +54,10 @@ The raw Excel [dataset](Fencom_Inc_Dataset.xlsx) contains details such as:
 ## Tools and Features Used 🛠️
 
 Excel Features:
-1. Functions like SUMIFS, TEXT, VLOOKUP and COUNTIF for calculations
-2. Pivot Tables to group and summarize data
-3. Charts (bar, line, pie) to visualize trends
-4. Slicers to filter the dashboard by product category, region, and date
-5. An interactive Excel dashboard for visualization to enable decision making
+1. Functions like SUMIFS, TEXT, VLOOKUP and COUNTIF for calculations.
+2. Pivot Tables to group and summarize data.
+3. Charts (bar, line, pie) to visualize trends.
+4. A polished Excel dashboard for Data Visualization to enable decision making.
 
 ---
 
@@ -111,19 +110,34 @@ From the Dashboard above, the following were some of the key metrics:
 ## Key Visual Insights 📊
 
 **Revenue & Orders Over Time:** Growth from 2022–2024, but with a dip in Q3 2024.
-**Gender Distribution:** Male buyers generated 58% of revenue.
+
+**Gender Distribution:** Male buyers generated 58% of the revenue.
+
 **Payment Methods:** 74% of orders were paid using credit cards.
+
 **Order Fulfilment:** 97.3% of orders were successfully delivered.
-**Regional Performance:** Highlighted via slicers and tables in the dashboard.
+
+![](home-appliance.jpg)
 
 ---
 
 ## Business Insights & Recommendations 💡
+
 **Focus on High-Performing Categories:** Especially Computers & Gaming.
+
 **Optimize Q3 Strategies:** Address revenue dip seen in this quarter.
+
 **Leverage Credit Card Promotions:** Given its dominance among payment methods.
+
 **Expand Support for Top Sellers:** Help scale performance across more product categories.
+
 **Gender-Specific Campaigns:** With males contributing a higher share, test targeted offers for female shoppers.
 
+---
+
+## Final Thoughts ✅
+
+This project shows how Excel can be a powerful tool for turning raw data into business intelligence for strategic planning in sales, marketing, and operations. 
+With interactive dashboards, slicers, and visuals, the stakeholders at Fencom Inc. can now monitor performance in real-time, identify what’s working, and respond quickly to market needs.
 
 
