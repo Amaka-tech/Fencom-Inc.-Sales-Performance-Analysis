@@ -39,18 +39,35 @@ This analysis aims to answer the following key questions:
 
 ## Dataset Overview 🗂️
 
-The raw Excel [dataset](Fencom_Inc_Dataset.xlsx) contains details like:
-Products sold
-Product categories
-Unit price
-Freight cost 
-Order Quantities 
-Payment methods
-Customer locations
-Order dates
+The raw Excel [dataset](Fencom_Inc_Dataset.xlsx) contains details such as:
+- Products sold
+- Product categories
+- Unit price
+- Freight cost 
+- Order Quantities 
+- Payment methods
+- Customer locations
+- Order dates
 
+---
 
+## Tools and Features Used 🛠️
 
+Excel Features:
+1. Functions like SUMIFS, TEXT, VLOOKUP and COUNTIF for calculations
+2. Pivot Tables to group and summarize data
+3. Charts (bar, line, pie) to visualize trends
+4. Slicers to filter the dashboard by product category, region, and date
+5. An interactive Excel dashboard for visualization to enable decision making
 
+---
+
+## Data Cleaning and Transformation 🔍
+
+The dataset (Fecom_Inc_Dataset.xlsx) was cleaned to removed blanks, standardized formats, remove duplicate entries.
+
+The inconsistencies in the product category and gender fields were fixed (inconsistent spelling of gender and product categories).
+
+---
 
 
